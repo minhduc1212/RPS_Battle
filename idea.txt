@@ -1,0 +1,18 @@
+game rock paper scissor with combat:
+1. Each player chooses one of the three options: rock, paper, or scissors.
+2. The winner is determined based on the following rules:
+3. If both players choose the same option, it's a tie.
+4. The winner in rock paper scissors will be buffed and attack first in the next combat round, the loser will be debuffed
+5. The combat round will consist of both players attacking each other based on their chosen options:
+    - they use their skill to attack another player, the damage dealt will be determined by the chosen option and the buffs/debuffs from the previous round.
+Repeat steps 1-5 until one player wins by reducing the opponent's health to zero.
+After the combat, the winner will receive a reward, such as experience points or in-game currency
+
+
+
+The update in the future:
+- inventory to build your own character: armor, weapons, accessories, skill, learning skill, inventory(heal potion, buff potion, debuff potion)
+- character race: human, elf, dwarf, orc, etc. each with unique traits and abilities
+- character class: warrior, mage, thief, etc. each with unique traits and abilitiess
+- Save the data
+- UI/UX
