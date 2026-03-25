@@ -11,8 +11,9 @@ After the combat, the winner will receive a reward, such as experience points or
 
 
 The update in the future:
+- add mana or action point system to limit the number of actions a player can take in a combat round
 - inventory to build your own character: armor, weapons, accessories, skill, learning skill, inventory(heal potion, buff potion, debuff potion)
 - character race: human, elf, dwarf, orc, etc. each with unique traits and abilities
 - character class: warrior, mage, thief, etc. each with unique traits and abilitiess
 - Save the data
-- UI/UX
+- UI/UX, image of npc and player
